@@ -21,7 +21,7 @@
 4. Last cell will convert genrated text to audio.  
 
 ***NOTE***
-Please refer the attached ppt to know more in detail and any inputs for the code update can be appreciated.
+Please refer the attached ppt to know more in detail and any inputs to improve the code can be appreciated.
 
 https://github.com/MST-369/Sign-Language-Interpreter/assets/145525421/376dff8f-0bb0-432c-9e61-925617de7fba
 
